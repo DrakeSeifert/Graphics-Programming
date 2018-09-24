@@ -1,0 +1,29 @@
+﻿  sample.cpp
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sphere.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sphere.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sphere.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sphere.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sphere.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sphere.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sphere.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sphere.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(531): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(537): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(538): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(564): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(575): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(584): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(594): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(605): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(614): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(635): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(644): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(665): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(674): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(717): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(750): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(753): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\final project - binary star system\sample2017\sample.cpp(1595): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Drake\Documents\Oregon State\9 Fall 2017\CS 450\Final Project - Binary Star System\Sample2017\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)

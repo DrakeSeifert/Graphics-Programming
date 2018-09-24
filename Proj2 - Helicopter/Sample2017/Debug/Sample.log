@@ -1,0 +1,15 @@
+﻿  sample.cpp
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(283): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(445): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(822): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(884): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(928): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(936): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(959): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(961): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(963): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(965): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj2\sample2017\sample.cpp(1306): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Drake\Documents\Oregon State\9 Fall 2017\CS 450\Proj2\Sample2017\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)

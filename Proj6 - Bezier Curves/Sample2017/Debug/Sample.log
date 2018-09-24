@@ -1,0 +1,22 @@
+﻿  sample.cpp
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(322): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(327): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(328): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(520): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(521): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(522): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(523): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(528): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(529): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(530): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(531): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(549): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(550): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(551): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(552): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(1058): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(1062): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\drake\documents\oregon state\9 fall 2017\cs 450\proj6 - bezier curves\sample2017\sample.cpp(1453): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Drake\Documents\Oregon State\9 Fall 2017\CS 450\Proj6 - Bezier Curves\Sample2017\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
